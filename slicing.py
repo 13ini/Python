@@ -85,7 +85,7 @@ print("SOFTwaRica".lower())      # Output: softwarica (using lower())
 print("SOFTwaRica".casefold())   # Output: softwarica (using casefold())
 
 # Replace the letter 'h' with 't' in "hello"
-print("hello".replace('h', 't'))  # Output: tello
+print("hello".replace('h', 'T'))  # Output: tello
 
 # Remove leading and trailing spaces from "  Softwarica College  "
 print("  Softwarica College  ".strip())  # Output: Softwarica College
